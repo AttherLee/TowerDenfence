@@ -1,0 +1,12 @@
+release/attackpath.o
+release/main.o
+release/mainwindow.o
+release/monster.o
+release/plistreader.o
+release/tower.o
+release/towerposition.o
+release/weapon.o
+release/moc_mainwindow.o
+release/moc_monster.o
+release/moc_tower.o
+release/moc_weapon.o

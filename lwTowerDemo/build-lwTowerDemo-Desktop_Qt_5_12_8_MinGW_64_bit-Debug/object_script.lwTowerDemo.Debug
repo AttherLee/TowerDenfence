@@ -1,0 +1,12 @@
+debug/attackpath.o
+debug/main.o
+debug/mainwindow.o
+debug/monster.o
+debug/plistreader.o
+debug/tower.o
+debug/towerposition.o
+debug/weapon.o
+debug/moc_mainwindow.o
+debug/moc_monster.o
+debug/moc_tower.o
+debug/moc_weapon.o
